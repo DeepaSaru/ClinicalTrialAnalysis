@@ -1,4 +1,4 @@
-Task 1: Clinical Trial Data Analysis with Spark SQL
+Clinical Trial Data Analysis with Spark SQL
 
 In this task, we are working with clinical trial data on behalf of a pharmaceutical company. The goal is to analyze trials registered in the USA to gain insights into the market.
 
